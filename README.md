@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![tkasbari's 42 stats](https://badge.mediaplus.ma/darkblue/tkasbari?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkasbari&layout=pie)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chimpansky&layout=pie)]

@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://profile.intra.42.fr/users/tkasbari"><img src="https://badge.mediaplus.ma/binary/tkasbari1337Badge=off&UM6P=off" alt="tkasbari's 42 stats" /></a>
+[![tkasbari's 42 stats](https://badge.mediaplus.ma/darkblue/tkasbari?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)

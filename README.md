@@ -58,45 +58,44 @@ Here are some ideas to get you started:
 <!-- Discovery Piscine Badge -->
 [![tkasbari's 42 stats](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/stats?cursusId=3&coalitionId=undefined)](https://github.com/Nimon77/badge42)
 
-- Cellule2.3 - Web
+- Cellule4.0 - Rush [![tkasbari's 42 Cellule4.0 - Rush Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3653580)](https://github.com/Nimon77/badge42)
 
-- Cellule4.0 - Rush
+- Cellule3.2 - Web [![tkasbari's 42 Cellule3.1 - Web Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3653872)](https://github.com/Nimon77/badge42)
 
-- Cellule3.2 - Web
+- Cellule3.1 - Web [![tkasbari's 42 Cellule3.1 - Web Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3653872)](https://github.com/Nimon77/badge42)
 
-- Cellule3.1 - Web
+- Cellule3.0 - Web [![tkasbari's 42 Cellule3.0 - Web Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3652730)](https://github.com/Nimon77/badge42)
 
-- Cellule3.0 - Web
+- Cellule2.2 - Web [![tkasbari's 42 Cellule2.2 - Web Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3652731)](https://github.com/Nimon77/badge42)
 
-- Cellule2.2 - Web
+- Cellule2.1 - Web [![tkasbari's 42 Cellule2.1 - Web Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3652138)](https://github.com/Nimon77/badge42)
 
-- Cellule2.1 - Web
+- Cellule2.0 - Web [![tkasbari's 42 Cellule2.0 - Web Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3651877)](https://github.com/Nimon77/badge42)
 
-- Cellule2.0 - Web
+- Cellule1.6 - Web [![tkasbari's 42 Cellule1.6 - Web Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3651086)](https://github.com/Nimon77/badge42)
 
-- Cellule1.6 - Web
+- Cellule1.5 - Web [![tkasbari's 42 Cellule1.5 - Web Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3650902)](https://github.com/Nimon77/badge42)
 
-- Cellule1.5 - Web
+- Cellule1.4 - Web [![tkasbari's 42 Cellule1.4 - Web Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3650569)](https://github.com/Nimon77/badge42)
 
-- Cellule1.4 - Web
+- Cellule1.3 - Web [![tkasbari's 42 Cellule1.3 - Web Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3650346)](https://github.com/Nimon77/badge42)
 
-- Cellule1.3 - Web
+- Cellule1.2 - Web [![tkasbari's 42 Cellule1.2 - Web Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3649984)](https://github.com/Nimon77/badge42)
 
-- Cellule0.5 - Shell
+- Cellule1.1 - Web [![tkasbari's 42 Cellule1.1 - Web Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3649250)](https://github.com/Nimon77/badge42)
 
-- Cellule1.2 - Web
+- Cellule1.0 - Web [![tkasbari's 42 Cellule1.0 - Web Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3649006)](https://github.com/Nimon77/badge42)
 
-- Cellule0.4 - Shell
+- Cellule0.5 - Shell [![tkasbari's 42 Cellule0.5 - Shell Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3650241)](https://github.com/Nimon77/badge42)
 
-- Cellule1.1 - Web
+- Cellule0.4 - Shell [![tkasbari's 42 Cellule0.4 - Shell Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3649271)](https://github.com/Nimon77/badge42)
 
-- Cellule0.3 - Shell
+- Cellule0.3 - Shell [![tkasbari's 42 Cellule0.3 - Shell Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3649072)](https://github.com/Nimon77/badge42)
 
-- Cellule1.0 - Web
 
-- Cellule0.2 - Shell
+- Cellule0.2 - Shell [![tkasbari's 42 Cellule0.2 - Shell Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3649002)](https://github.com/Nimon77/badge42)
 
-- Cellule0.1 - Shell
+- Cellule0.1 - Shell [![tkasbari's 42 Cellule0.0 - Shell Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3648593)](https://github.com/Nimon77/badge42)
 
 - Cellule0.0 - Shell [![tkasbari's 42 Cellule0.0 - Shell Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3648593)](https://github.com/Nimon77/badge42)
 

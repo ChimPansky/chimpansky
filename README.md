@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 [![tkasbari's 42 stats](https://badge.mediaplus.ma/darkblue/tkasbari?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
+https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/stats?cursusId=21&coalitionId=253
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chimpansky&theme=algolia)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chimpansky&theme=algolia)
+
+[![tkasbari's 42 Libft Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3287427)](https://github.com/Nimon77/badge42)

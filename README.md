@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chimpansky&theme=algolia)
 
 # Ecole 42 Stats
+<!-- Student Badge -->
 [![tkasbari's 42 stats](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/stats?cursusId=21&coalitionId=253)](https://github.com/Nimon77/badge42)
 
 - CPP Module 08 [![tkasbari's 42 CPP Module 08 Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3732027)](https://github.com/Nimon77/badge42)
@@ -101,4 +102,21 @@ Here are some ideas to get you started:
 
 <!-- C Piscine badge -->
 [![tkasbari's 42 stats](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/stats?cursusId=9&coalitionId=250)](https://github.com/Nimon77/badge42)
+
+- C Piscine Final Exam [![tkasbari's 42 C Piscine Final Exam Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3089464)](https://github.com/Nimon77/badge42)
+- C Piscine C 08 [![tkasbari's 42 C Piscine C 08 Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3083730)](https://github.com/Nimon77/badge42)
+- C Piscine C 07 [![tkasbari's 42 C Piscine Exam 02 Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3083294)](https://github.com/Nimon77/badge42)
+- C Piscine Exam 02 [![tkasbari's 42 C Piscine Exam 02 Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3083294)](https://github.com/Nimon77/badge42)
+- C Piscine C 06 [![tkasbari's 42 C Piscine C 06 Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3081534)](https://github.com/Nimon77/badge42)
+- C Piscine C 05 [![tkasbari's 42 C Piscine C 05 Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3081533)](https://github.com/Nimon77/badge42)
+- C Piscine C 04 [![tkasbari's 42 C Piscine C 04 Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3080471)](https://github.com/Nimon77/badge42)
+- C Piscine C 03 [![tkasbari's 42 C Piscine C 03 Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3080168)](https://github.com/Nimon77/badge42)
+- C Piscine C 02 [![tkasbari's 42 C Piscine C 02 Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3077763)](https://github.com/Nimon77/badge42)
+- C Piscine Exam 01 [![tkasbari's 42 C Piscine Exam 01 Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3077570)](https://github.com/Nimon77/badge42)
+- C Piscine C 01 [![tkasbari's 42 C Piscine C 01 Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3073590)](https://github.com/Nimon77/badge42)
+- C Piscine Rush 00 [![tkasbari's 42 C Piscine Rush 00 Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3072113)](https://github.com/Nimon77/badge42)
+- C Piscine C 00 [![tkasbari's 42 C Piscine C 00 Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3071141)](https://github.com/Nimon77/badge42)
+- C Piscine Exam 00 [![tkasbari's 42 C Piscine Exam 00 Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3071091)](https://github.com/Nimon77/badge42)
+- C Piscine Shell 00 [![tkasbari's 42 C Piscine Shell 00 Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3066179)](https://github.com/Nimon77/badge42)
+
 

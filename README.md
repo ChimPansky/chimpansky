@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=42&email=hide&login=tkasbari)](https://github.com/mohouyizme/1337-readme)
+<a href="https://profile.intra.42.fr/users/tkasbari"><img src="https://badge.mediaplus.ma/binary/tkasbari1337Badge=off&UM6P=off" alt="tkasbari's 42 stats" /></a>

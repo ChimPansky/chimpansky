@@ -21,11 +21,13 @@ Here are some ideas to get you started:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chimpansky&theme=algolia)
 
-# 42 Stats
+# Ecole 42 Stats
 [![tkasbari's 42 stats](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/stats?cursusId=21&coalitionId=253)](https://github.com/Nimon77/badge42)
 
-[![tkasbari's 42 stats](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/stats?cursusId=9&coalitionId=250)](https://github.com/Nimon77/badge42)
+## get_next_line [![tkasbari's 42 get_next_line Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3316768)](https://github.com/Nimon77/badge42)
+## Libft [![tkasbari's 42 Libft Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3287427)](https://github.com/Nimon77/badge42)
 
 [![tkasbari's 42 stats](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/stats?cursusId=3&coalitionId=undefined)](https://github.com/Nimon77/badge42)
 
-## Libft [![tkasbari's 42 Libft Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3287427)](https://github.com/Nimon77/badge42)
+[![tkasbari's 42 stats](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/stats?cursusId=9&coalitionId=250)](https://github.com/Nimon77/badge42)
+

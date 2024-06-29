@@ -58,90 +58,48 @@ Here are some ideas to get you started:
 <!-- Discovery Piscine Badge -->
 [![tkasbari's 42 stats](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/stats?cursusId=3&coalitionId=undefined)](https://github.com/Nimon77/badge42)
 
-Cellule2.3 - Web
-Fail
-0
-/100
-Cellule4.0 - Rush
-Success
-100
-/100
-Cellule3.2 - Web
-Success
-100
-/100
-Cellule3.1 - Web
-Success
-100
-/100
-Cellule3.0 - Web
-Success
-100
-/100
-Cellule2.2 - Web
-Success
-100
-/100
-Cellule2.1 - Web
-Success
-100
-/100
-Cellule2.0 - Web
-Success
-100
-/100
-Cellule1.6 - Web
-Success
-100
-/100
-Cellule1.5 - Web
-Success
-100
-/100
-Cellule1.4 - Web
-Success
-100
-/100
-Cellule1.3 - Web
-Success
-100
-/100
-Cellule0.5 - Shell
-Success
-100
-/100
-Cellule1.2 - Web
-Success
-100
-/100
-Cellule0.4 - Shell
-Success
-100
-/100
-Cellule1.1 - Web
-Success
-100
-/100
-Cellule0.3 - Shell
-Success
-100
-/100
-Cellule1.0 - Web
-Success
-100
-/100
-Cellule0.2 - Shell
-Success
-100
-/100
-Cellule0.1 - Shell
-Success
-100
-/100
-Cellule0.0 - Shell
-Success
-100
-/100
+- Cellule2.3 - Web
 
+- Cellule4.0 - Rush
+
+- Cellule3.2 - Web
+
+- Cellule3.1 - Web
+
+- Cellule3.0 - Web
+
+- Cellule2.2 - Web
+
+- Cellule2.1 - Web
+
+- Cellule2.0 - Web
+
+- Cellule1.6 - Web
+
+- Cellule1.5 - Web
+
+- Cellule1.4 - Web
+
+- Cellule1.3 - Web
+
+- Cellule0.5 - Shell
+
+- Cellule1.2 - Web
+
+- Cellule0.4 - Shell
+
+- Cellule1.1 - Web
+
+- Cellule0.3 - Shell
+
+- Cellule1.0 - Web
+
+- Cellule0.2 - Shell
+
+- Cellule0.1 - Shell
+
+- Cellule0.0 - Shell [![tkasbari's 42 Cellule0.0 - Shell Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3648593)](https://github.com/Nimon77/badge42)
+
+<!-- C Piscine badge -->
 [![tkasbari's 42 stats](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/stats?cursusId=9&coalitionId=250)](https://github.com/Nimon77/badge42)
 

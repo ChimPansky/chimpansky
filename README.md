@@ -24,8 +24,9 @@ Here are some ideas to get you started:
 # Ecole 42 Stats
 [![tkasbari's 42 stats](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/stats?cursusId=21&coalitionId=253)](https://github.com/Nimon77/badge42)
 
-+ft_printf [![tkasbari's 42 ft_printf Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3316766)](https://github.com/Nimon77/badge42)
-* get_next_line [![tkasbari's 42 get_next_line Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3316768)](https://github.com/Nimon77/badge42)
+- push_swap [![tkasbari's 42 push_swap Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3369502)](https://github.com/Nimon77/badge42)
+- ft_printf [![tkasbari's 42 ft_printf Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3316766)](https://github.com/Nimon77/badge42)
+- get_next_line [![tkasbari's 42 get_next_line Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3316768)](https://github.com/Nimon77/badge42)
 - Libft [![tkasbari's 42 Libft Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3287427)](https://github.com/Nimon77/badge42)
 
 [![tkasbari's 42 stats](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/stats?cursusId=3&coalitionId=undefined)](https://github.com/Nimon77/badge42)

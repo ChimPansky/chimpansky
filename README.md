@@ -1,6 +1,7 @@
 ## Hi there 👋 My name is Thomas
 
-- 🌱 I’m currently expanding my coding skills at 42 Vienna
+- 🌱 I’m currently expanding my coding skills at 42 Vienna (Piscine start 04/2023, Common Core start 09/2023)
+- 🚧 I will keep updating this site as I get closer to the end of the 42 Core Curriculum
 <!--
 **ChimPansky/chimpansky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,7 +22,7 @@ Here are some ideas to get you started:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chimpansky&theme=algolia)
 
-# Ecole 42 Stats
+# 42 Coding School Stats
 <!-- Student Badge -->
 [![tkasbari's 42 stats](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/stats?cursusId=21&coalitionId=253)](https://github.com/Nimon77/badge42)
 

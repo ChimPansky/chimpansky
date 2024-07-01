@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 <!-- Student Badge -->
 [![tkasbari's 42 stats](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/stats?cursusId=21&coalitionId=253)](https://github.com/Nimon77/badge42)
 
+- Rushes [![tkasbari's 42 Rushes Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3359031)](https://github.com/Nimon77/badge42)
 - CPP Module 08 		[![tkasbari's 42 CPP Module 08 Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3732027)](https://github.com/Nimon77/badge42)
 - CPP Module 07 		[![tkasbari's 42 CPP Module 07 Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3729422)](https://github.com/Nimon77/badge42)
 - CPP Module 06 		[![tkasbari's 42 CPP Module 06 Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3717277)](https://github.com/Nimon77/badge42)

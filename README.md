@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Thomas
+## Hi there 👋 Welcome to my GitHub
 
 - 🌱 I’m currently expanding my coding skills at 42 Vienna (Piscine start 04/2023, Common Core start 09/2023)
 - 🚧 I will keep updating this site as I get closer to the end of the 42 Core Curriculum

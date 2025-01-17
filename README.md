@@ -26,6 +26,10 @@ Here are some ideas to get you started:
 <!-- Student Badge -->
 [![tkasbari's 42 stats](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/stats?cursusId=21&coalitionId=253)](https://github.com/Nimon77/badge42)
 
+- Transcendence    [![tkasbari's 42 ft_transcendence Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/4085380)](https://github.com/Nimon77/badge42)
+- Exam Rank 06     [![tkasbari's 42 Exam Rank 06 Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/4076303)](https://github.com/Nimon77/badge42)
+- Inception        [![tkasbari's 42 Inception Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3777577)](https://github.com/Nimon77/badge42)
+- Webserv          [![tkasbari's 42 webserv Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3867383)](https://github.com/Nimon77/badge42)
 - Rushes [![tkasbari's 42 Rushes Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3359031)](https://github.com/Nimon77/badge42)
 - Exam Rank 05      [![tkasbari's 42 Exam Rank 05 Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3774683)](https://github.com/Nimon77/badge42)
 - CPP Module 09     [![tkasbari's 42 CPP Module 09 Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3735514)](https://github.com/Nimon77/badge42)

@@ -1,31 +1,25 @@
 ## Hi there 👋 My name is Thomas
 
-- 🌱 I’m currently expanding my coding skills at 42 Vienna (Piscine start 04/2023, Common Core start 09/2023)
-- 🚧 I will keep updating this site as I get closer to the end of the 42 Core Curriculum
-<!--
-**ChimPansky/chimpansky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ✅ I recently completed the Common Core at 42 Vienna (started in September 2023, ended in April 2025)
 
-Here are some ideas to get you started:
+- 💼 I’m currently looking for a full-time position as a software developer
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--[![tkasbari's 42 stats](https://badge.mediaplus.ma/darkblue/tkasbari?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)-->
+- 🔧 On the side, I'm continuing to build my skills through 42 Mastery projects and personal development
+  
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chimpansky&theme=algolia)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chimpansky&theme=algolia)
 
 # 42 Coding School Stats
+
+## Common Core
 <!-- Student Badge -->
 [![tkasbari's 42 stats](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/stats?cursusId=21&coalitionId=253)](https://github.com/Nimon77/badge42)
 
+<details>
+<summary><strong>Projects</strong> (click to expand)</summary>
+  
 - Transcendence    [![tkasbari's 42 ft_transcendence Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/4085380)](https://github.com/Nimon77/badge42)
 - Exam Rank 06     [![tkasbari's 42 Exam Rank 06 Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/4076303)](https://github.com/Nimon77/badge42)
 - Inception        [![tkasbari's 42 Inception Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3777577)](https://github.com/Nimon77/badge42)
@@ -63,10 +57,15 @@ Here are some ideas to get you started:
 - ft_printf [![tkasbari's 42 ft_printf Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3316766)](https://github.com/Nimon77/badge42)
 - get_next_line [![tkasbari's 42 get_next_line Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3316768)](https://github.com/Nimon77/badge42)
 - Libft [![tkasbari's 42 Libft Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3287427)](https://github.com/Nimon77/badge42)
+</details>
 
+## Discovery Piscine
 <!-- Discovery Piscine Badge -->
 [![tkasbari's 42 stats](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/stats?cursusId=3&coalitionId=undefined)](https://github.com/Nimon77/badge42)
 
+<details>
+<summary><strong>Projects</strong> (click to expand)</summary>
+  
 - Cellule4.0 - Rush 	[![tkasbari's 42 Cellule4.0 - Rush Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3653580)](https://github.com/Nimon77/badge42)
 - Cellule3.2 - Web 		[![tkasbari's 42 Cellule3.1 - Web Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3653872)](https://github.com/Nimon77/badge42)
 - Cellule3.1 - Web 		[![tkasbari's 42 Cellule3.1 - Web Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3653872)](https://github.com/Nimon77/badge42)
@@ -87,10 +86,15 @@ Here are some ideas to get you started:
 - Cellule0.2 - Shell 	[![tkasbari's 42 Cellule0.2 - Shell Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3649002)](https://github.com/Nimon77/badge42)
 - Cellule0.1 - Shell 	[![tkasbari's 42 Cellule0.0 - Shell Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3648593)](https://github.com/Nimon77/badge42)
 - Cellule0.0 - Shell 	[![tkasbari's 42 Cellule0.0 - Shell Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3648593)](https://github.com/Nimon77/badge42)
+</details>
 
+## Piscine
 <!-- C Piscine badge -->
 [![tkasbari's 42 stats](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/stats?cursusId=9&coalitionId=250)](https://github.com/Nimon77/badge42)
 
+<details>
+<summary><strong>Projects</strong> (click to expand)</summary>
+  
 - C Piscine Final Exam [![tkasbari's 42 C Piscine Final Exam Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3089464)](https://github.com/Nimon77/badge42)
 - C Piscine C 08 [![tkasbari's 42 C Piscine C 08 Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3083730)](https://github.com/Nimon77/badge42)
 - C Piscine C 07 [![tkasbari's 42 C Piscine Exam 02 Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3083294)](https://github.com/Nimon77/badge42)
@@ -106,3 +110,4 @@ Here are some ideas to get you started:
 - C Piscine C 00 [![tkasbari's 42 C Piscine C 00 Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3071141)](https://github.com/Nimon77/badge42)
 - C Piscine Exam 00 [![tkasbari's 42 C Piscine Exam 00 Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3071091)](https://github.com/Nimon77/badge42)
 - C Piscine Shell 00 [![tkasbari's 42 C Piscine Shell 00 Score](https://badge.nimon.fr/api/v2/cly0gleez164901pgufeal46n/project/3066179)](https://github.com/Nimon77/badge42)
+</details>
